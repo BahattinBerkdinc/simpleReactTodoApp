@@ -1,0 +1,9 @@
+
+.trash{
+    font-size: 1rem;
+    color: red;
+    cursor: pointer;
+    &:hover{
+        color: rgba(255, 0, 0, 0.526);
+    }
+}
